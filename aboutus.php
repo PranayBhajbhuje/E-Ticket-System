@@ -133,7 +133,7 @@
                     <div class="team-member">
                         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSybLT_Mg6bvhSK1Dtm8Id8qiW-EuQb03XJ-eCA4AWpQvmd1OnL7KyQ8FAT9g1X3HQS2fQ&usqp=CAU" alt="Pranay Bhajbhuje">
                         <div class="team-member-info">
-                            <h3>Rohit Maraskolhe</h3>
+                            <h3>Pranay Bhajbhuje</h3>
                             <p>MCA Professional and Web Developer</p>
                         </div>
                     </div>
